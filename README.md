@@ -1,13 +1,13 @@
 <div align="center">
   <a>
-    <img src="https://raw-maroon-nlvwtp9cdk.edgeone.app/IMG_20260308_081251_022.png" alt="glow" border="0">
+    <img src="https://image2url.com/r2/default/images/1772941843351-8cd5584e-ca33-48e6-b1c1-ae4a5b93a104.png" alt="glow" border="0">
   </a>
 </div>
 
 
 <div align="center">
   <h1 style="background-color:#4B0082; color:white; display:inline-block; padding:20px 40px; border-radius:10px; font-size:48px; font-family:Fira+Code; text-align:center;">
-    DARKZONE-MD WHATSAPP BOT
+    HAMZA-RED-ZONE-MD 🚀
   </h1>
 </div>
 
@@ -59,8 +59,8 @@
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-<a href="https://github.com/ERFAN-Md/DARKZONE-MD/fork">
-  <img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
+<a href="#">
+  <img title="HAMZA-RED-ZONE-MD" src="https://img.shields.io/badge/FORK-HAMZA%20RED%20ZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
 ### 2. 𐃁GET SESSION ID𐃁
@@ -69,90 +69,32 @@
 
 > **1. PAIR CODE SESSION ID**
 
-<a href="https://erfan-pair-site.onrender.com" target="_blank">
+<a href="#" target="_blank">
   <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF4500?style=for-the-badge&logo=opencv&logoColor=black">
 </a>
-
-> **2. PAIR CODE SESSION ID**
-
-<a href="https://erfan-pair-site.onrender.com" target="_blank">
-  <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF1493?style=for-the-badge&logo=opencv&logoColor=black">
-</a>
-
 
 </div>
 
 
 ---
 
-### <h2 align="center">DARKZONE-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="center">HAMZA-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
 
-<p align="center">Deploy your <strong>DARKZONE-MD Bot</strong> on any hosting service of your choice.</p>
+<p align="center">Deploy your <strong>HAMZA-RED-ZONE-MD Bot</strong> on any hosting service of your choice.</p>
 
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ERFAN-Md/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-       <td><a href="https://vps-sit-135a25eed542.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ERFAN-Md/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=forhttps://vps-sit-135a25eed542.herokuapp.com/-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://dashboard.heroku.com/" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
     </tr>
   </table>
 </div>
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://vps-sit-135a25eed542.herokuapp.com/" target="_blank">
-        <img alt="FREE-VPS-SITE" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/ERFAN-Md/DARKZONE-MD" target="_blank">
-        <img alt="View Workflow Codes" src="https://img.shields.io/badge/Deploy-On%20Workflow-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
-      </a>
-    </td>
-  </tr>a 
-</table>  
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/ERFAN-Md/DARKZONE-MD" target="_blank">
-        <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>  
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/ERFAN-Md/DARKZONE-MD/archive/refs/heads/main.zip" target="_blank">
-        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 
 ---
-
-
 
 ## ✨ Key Features
 <div align="center">
@@ -172,8 +114,8 @@
 
 ## 📞 Contact & Support
 
-### Project Owner: Hamza king 👑
-<a href='https://wa.me/923396386670?text=*HELLO+HAMZA+KING+👑+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
+### Project Owner: Hamza King 👑
+<a href='https://wa.me/923396386670?text=*HELLO+HAMZA+KING+👑+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+HAMZA-RED-ZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
@@ -181,12 +123,8 @@
 <a href="https://chat.whatsapp.com/IwVXTn9yrSaJOzkMOy8bVf">
   <img src="https://img.shields.io/badge/Join_Group-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Group"/>
 </a>
-<a href="https://whatsapp.com/channel/0029Vb5dDVO59PwTnL86j13J">
-  <img src="https://img.shields.io/badge/Join_Channel-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel"/>
-</a>
 
 </div>
 
 
 ---
-
