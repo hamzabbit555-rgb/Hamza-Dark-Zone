@@ -1,6 +1,6 @@
 <div align="center">
   <a>
-    <img src="https://raw-maroon-nlvwtp9cdk.edgeone.app/IMG_20260308_081251_022.png" alt="glow" border="0">
+    <img src="https://image2url.com/r2/default/images/1772941843351-8cd5584e-ca33-48e6-b1c1-ae4a5b93a104.png" alt="glow" border="0">
   </a>
 </div>
 
@@ -186,6 +186,3 @@
 </a>
 
 </div>
-
-
----
